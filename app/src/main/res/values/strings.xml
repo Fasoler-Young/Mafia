@@ -10,8 +10,14 @@
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 
+    <string name="not_correct_roles">Количество ролей не сетсвует количсеству игроков</string>
+
     <string name="num_members">Всего играет:</string>
     <string name="some_text">Просто текст</string>
+    <string name="not_sleep">Не спят:</string>
+    <string name="steel_alive">Всё ещё живы:</string>
+    <string name="choose_members">Назначь роль</string>
+    <string name="chose_role_btn">Назначить выбранных</string>
 
     <string name="mafia">Мафия</string>
 
